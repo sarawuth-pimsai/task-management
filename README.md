@@ -1,3 +1,3 @@
 # Task Management System
 
-### Techstack Typescrip + React + Vite
+### Techstack Typescrip + React + Vite + Tailwindcss
