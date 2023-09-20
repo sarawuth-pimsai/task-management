@@ -1,0 +1,17 @@
+# System
+.vscode
+.DS_Store
+
+# Dependency directories
+node_modules
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+
+# Compiled binary addons
+build
+
+# dotenv environment variable files
+.env
